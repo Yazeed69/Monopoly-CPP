@@ -1,0 +1,40 @@
+g "GO" GO [38;2;162;14;14m
+s "Mediterranean_Avenue" MA "Brown" 60 30 33 50 2 4 10 30 90 160 250 [38;2;119;60;0m
+d "Community_Chest" CC 1 [38;2;0;174;236m
+s "Baltic_Avenue" BA "Brown" 60 30 33 50 4 8 20 60 180 320 450 [38;2;119;60;0m
+t "Income_Tax" IT 200 [38;2;226;176;31m
+r "Reading_Railroad" RR "Railroad" 200 100 110 [38;2;39;34;36m
+s "Oriental_Avenue" OR "Light_Blue" 100 50 55 50 6 12 30 90 270 400 550 [38;2;13;173;238m
+d "Chance" ?? 0 [38;2;236;5;10m
+s "Vermont_Avenue" VT "Light_Blue" 100 50 55 50 6 12 30 90 270 400 550 [38;2;13;173;238m
+s "Connecticut_Avenue" CT "Light_Blue" 120 60 66 50 8 16 40 100 300 450 600 [38;2;13;173;238m
+h "Jail/Just_Visiting" {} [38;2;234;156;2m
+s "St._Charles_Place" SC "Pink" 140 70 77 100 10 20 50 150 450 625 750 [38;2;254;41;174m
+u "Electric_Company" EC "Utility" 150 75 83 [38;2;0;255;255m
+s "States_Avenue" SA "Pink" 140 70 77 100 10 20 50 150 450 625 750 [38;2;254;41;174m
+s "Virginia_Avenue" VA "Pink" 160 80 88 100 12 24 60 180 500 700 900 [38;2;254;41;174m
+r "Pennsylvania_Railroad" PR "Railroad" 200 100 110 [38;2;39;34;36m
+s "St._James_Place" SJ "Orange" 180 90 99 100 14 28 70 200 550 750 950 [38;2;254;95;8m
+d "Community_Chest" CC 1 [38;2;0;174;236m
+s "Tennessee_Avenue" TN "Orange" 180 90 99 100 14 28 70 200 550 750 950 [38;2;254;95;8m
+s "New_York_Avenue" NY "Orange" 200 100 110 100 16 32 80 220 600 800 1000 [38;2;254;95;8m
+f "Free_Parking" FP [38;2;0;255;0m
+s "Kentucky_Avenue" KY "Red" 220 110 121 150 18 36 90 250 700 875 1050 [38;2;254;0;0m
+d "Chance" ?? 0 [38;2;141;213;246m
+s "Indiana_Avenue" IN "Red" 220 110 121 150 18 36 90 250 700 875 1050 [38;2;254;0;0m
+s "Illinois_Avenue" IL "Red" 240 120 132 150 20 40 100 300 750 925 1100 [38;2;254;0;0m
+r "B&O_Railroad" BO "Railroad" 200 100 110 [38;2;39;34;36m
+s "Atlantic_Avenue" AT "Yellow" 260 130 143 150 22 44 110 330 800 975 1150 [38;2;255;255;0m
+s "Ventnor_Avenue" VE "Yellow" 260 130 143 150 22 44 110 330 800 975 1150 [38;2;255;255;0m
+u "Water_Works" WW "Utility" 150 75 83 [38;2;0;0;255m
+s "Marvin_Gardens" MG "Yellow" 280 140 154 150 24 48 120 360 850 1025 1200 [38;2;255;255;0m
+j "Go_To_Jail" {} [38;2;31;95;178m
+s "Pacific_Avenue" PA "Green" 300 150 165 200 26 52 130 390 900 1100 1275 [38;2;4;156;4m
+s "North_Carolina_Avenue" NC "Green" 300 150 165 200 26 52 130 390 900 1100 1275 [38;2;4;156;4m
+d "Community_Chest" CC 1 [38;2;0;174;236m
+s "Pennsylvania_Avenue" PN "Green" 320 160 176 200 28 56 150 450 1000 1200 1400 [38;2;4;156;4m
+r "Short_Line" SL "Railroad" 200 100 110 [38;2;39;34;36m
+d "Chance" ?? 0 [38;2;236;5;10m
+s "Park_Place" PP "Dark_Blue" 350 175 193 200 35 70 175 500 1100 1300 1500 [38;2;6;79;159m
+t "Luxury_Tax" LT 75 [38;2;255;215;0m
+s "Boardwalk" BW "Dark_Blue" 400 200 220 200 50 100 200 600 1400 1700 2000 [38;2;6;79;159m

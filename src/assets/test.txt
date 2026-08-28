@@ -1,0 +1,40 @@
+g GO GO GO desc
+p BROWN Mediterranean_Avenue MA 60 50 2 10 30 90 160 250 30 desc
+c CC Community_Chest CC desc
+p BROWN Baltic_Avenue BA 60 50 4 20 60 180 320 450 30 desc
+t INCTAX Income_Tax IT 200 desc
+r RR Reading_Railroad RR 200 100 desc
+p LIGHTBLUE Oriental_Avenue OA  100 50 6 30 90 270 400 550 50 desc
+? CH1 Chance ?? desc
+p LIGHTBLUE Vermont_Avenue VA 100 50 6 30 90 270 400 550 50 desc
+p LIGHTBLUE Connecticut_Avenue CA 120 50 8 40 100 300 450 600 60 desc
+h HYBRID Jail/Just_Visiting {} desc
+p PINK St._Charles_Place SC 140 100 10 50 150 450 625 750 70 desc
+u ELECTRIC Electric_Company EC 150 75 desc
+p PINK States_Avenue SA 140 100 10 50 150 450 625 750 70 desc
+p PINK Virginia_Avenue VA 160 100 12 60 180 500 700 900 80 desc
+r RR Pennsylvania_Railroad PR 200 100 desc
+p ORANGE St._James_Place SJ 180 100 14 70 200 550 750 950 90 desc
+c CC Community_Chest CC desc
+p ORANGE Tennessee_Avenue TA 180 100 14 70 200 550 750 950 90 desc
+p ORANGE New_York_Avenue NY 200 100 16 80 220 600 800 1000 100 desc
+f FREE Free_Parking FP desc
+p RED Kentucky_Avenue KA 220 150 18 90 250 700 875 1050 110 desc
+? CH2 Chance ?? desc
+p RED Indiana_Avenue IA 220 150 18 90 250 700 875 1050 110 desc
+p RED Illinois_Avenue IA 240 150 20 100 300 750 925 110 120 desc
+r RR B&O_Railroad BR 200 100 desc
+p YELLOW Atlantic_Avenue AA 260 150 22 110 330 800 975 1150 130 desc
+p YELLOW Ventnor_Avenue VA 260 150 22 110 330 800 975 1150 130 desc
+u WATER Water_Works WW 150 75 desc
+p YELLOW Marvin_Gardens MG 280 150 24 120 360 850 1025 1200 140 desc
+j JAIL Go_to_Jail {} desc
+p GREEN Pacific_Avenue PA 300 200 26 130 390 900 1100 1275 150 desc
+p GREEN North_Carolina_Avenue NC 300 200 26 130 390 900 1100 1275 150 desc
+c CC Community_Chest CC desc
+p GREEN Pennsylvania_Avenue PA 320 200 28 150 450 1000 1200 1400 160 desc
+r RR Short_Line_Railroad RL 200 100 desc
+? CH3 Chance ?? desc
+p DARKBLUE Park_Place PP 350 200 35 175 500 1100 1300 1500 175 desc
+t LUXTAX Luxury_Tax LT 75 desc
+p DARKBLUE Boardwalk BW 400 200 50 200 600 1400 1700 2000 200 desc

@@ -1,0 +1,6 @@
+monopoly_game.exe
+monopoly_tests.exe
+a.exe
+a.out
+*.o
+*.gch
